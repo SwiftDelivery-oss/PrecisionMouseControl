@@ -1,7 +1,7 @@
 # Precision Mouse Control
 
 **Author:** Swift Delivery  
-**Version:** 1.2  
+**Version:** 1.3  
 
 ## Description
 Precision Mouse Control is a mod for Borderlands 2 that allows you to set the mouse sensitivity in smaller increments. This mod is based on the original BLCM mod "[Uncapped Pause Menu Settings](https://www.nexusmods.com/borderlands2/mods/157)" by OB4MA.
