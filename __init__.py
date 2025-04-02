@@ -5,15 +5,11 @@ class PrecisionMouseControl(ModMenu.SDKMod):
     Name = "Precision Mouse Control"
     Description = "Allows you to set the mouse sensitivity in smaller increments - Credits: Based on the original BLCM mod 'Uncapped Pause Menu Settings' by OB4MA."
     Author = "Swift Delivery"
-    Version = "1.2"
+    Version = "1.3"
     SaveEnabledState = ModMenu.EnabledSaveType.LoadWithSettings
 
     def Enable(self):
         self.SetMouseSensitivityIncrement()
-        unrealsdk.Log(f"[{self.Name}] Mod Enabled")
-
-    def Disable(self):
-        unrealsdk.Log(f"[{self.Name}] Mod Disabled")
 
     def SetMouseSensitivityIncrement(self):
         # Find the WillowProfileSettings object.
