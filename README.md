@@ -15,6 +15,10 @@ Precision Mouse Control is a mod for Borderlands 2 that allows you to set the mo
 2. Place the `PrecisionMouseControl` folder into your `sdk_mods` directory within the Borderlands 2 installation folder.
 3. Launch the game and enable the mod from the Mod Menu.
 
+## Compatibility
+This mod has been tested and confirmed to work with BL2 SDK version **3.4**. It is expected to work with newer versions of the BL2 SDK as well, but compatibility with all versions is not guaranteed.  
+If you find that this mod is not compatible with a specific version of the BL2 SDK, please report the issue to help improve the mod.
+
 ## Credits
 - **Swift Delivery**: Author of this mod.
 - **OB4MA**: Creator of the original "[Uncapped Pause Menu Settings](https://www.nexusmods.com/borderlands2/mods/157)" mod.
